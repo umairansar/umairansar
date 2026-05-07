@@ -3,9 +3,10 @@
 Building distributed, scalable backend systems at [Snoonu](https://snoonu.com) — microservices, event-driven architecture, and writing code that makes money.
 
 Interested in distributed systems, databases, and AI/ML. 
----
 
+---
 **Stack** — `C#` `.NET` `RabbitMQ` `Redis` `PostgreSQL` `MongoDB` `Docker` `AWS` `gRPC`
+
 **Also** — `Python` `Java` `React` `TypeScript`
 
 ---
