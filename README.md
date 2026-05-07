@@ -1,14 +1,12 @@
 # Hey, I'm Umair 👋
 
-Software engineer based in Doha, Qatar. CMU CS grad building distributed backend systems at [Snoonu](https://snoonu.com) — microservices, event-driven architecture, the works.
+Building distributed, scalable backend systems at [Snoonu](https://snoonu.com) — microservices, event-driven architecture, and writing code that makes money.
 
-Interested in distributed systems, AI/ML, and occasionally shipping side projects.
-
+Interested in distributed systems, databases, and AI/ML. 
 ---
 
 **Stack** — `C#` `.NET` `RabbitMQ` `Redis` `PostgreSQL` `MongoDB` `Docker` `AWS` `gRPC`
-
-**Also** — `Java` `TypeScript` `Python` `React`
+**Also** — `Python` `Java` `React` `TypeScript`
 
 ---
 
@@ -16,10 +14,12 @@ Interested in distributed systems, AI/ML, and occasionally shipping side project
 - [SuperStock](https://github.com/umairansar/SuperStock) — stock management in C#
 - [Tournamentor](https://github.com/umairansar/match-react-app) — tournament scheduler, TypeScript + React + FastAPI
 - [RabbitMQ Experiments](https://github.com/umairansar/RabbitMqExperiments) — messaging pattern explorations
-- Distributed filesystem & K-Means over MPI *(CMU coursework)*
-
 ---
 
-<!-- NEETCODE_START -->Solving [NeetCode 150](https://neetcode.io) — **0 / 150** problems done<!-- NEETCODE_END -->
+**Currently Reading**
+- Designing Data Intensive Applications
+- C# 12 in a Nutshell
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-ansar/)
+<!-- NEETCODE_START -->Solving [NeetCode 150](https://neetcode.io) — **140 / 150** problems done<!-- NEETCODE_END -->
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-ansar/)
