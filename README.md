@@ -1,6 +1,6 @@
 # Hey, I'm Umair 👋
 
-Building distributed, scalable backend systems at [Snoonu](https://snoonu.com) — microservices, event-driven architecture, and writing code that makes money.
+Building distributed, scalable backend systems at [Snoonu](https://snoonu.com) - microservices, event-driven architecture, and writing code that makes money.
 
 Interested in distributed systems, databases, and AI/ML. 
 
@@ -12,9 +12,9 @@ Interested in distributed systems, databases, and AI/ML.
 ---
 
 **Some projects**
-- [SuperStock](https://github.com/umairansar/SuperStock) — stock management in C#
-- [Tournamentor](https://github.com/umairansar/match-react-app) — tournament scheduler, TypeScript + React + FastAPI
-- [RabbitMQ Experiments](https://github.com/umairansar/RabbitMqExperiments) — messaging pattern explorations
+- [SuperStock](https://github.com/umairansar/SuperStock) - stock management in C#
+- [Tournamentor](https://github.com/umairansar/match-react-app) - tournament scheduler, TypeScript + React + FastAPI
+- [RabbitMQ Experiments](https://github.com/umairansar/RabbitMqExperiments) - messaging pattern explorations
 ---
 
 **Currently Reading**
