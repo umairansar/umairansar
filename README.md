@@ -18,8 +18,7 @@ Interested in distributed systems, databases, and AI/ML.
 - C# 12 in a Nutshell
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-ansar/)
 <!-- NEETCODE_START -->
-[![NeetCode](https://img.shields.io/badge/NeetCode-119%20%2F%20150-7B2FBE?style=for-the-badge)](https://github.com/umairansar/neetcode-submissions/tree/main)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-ansar/) [![NeetCode](https://img.shields.io/badge/NeetCode-139%20%2F%20150-7B2FBE?style=for-the-badge)](https://github.com/umairansar/neetcode-submissions/tree/main)
 <!-- NEETCODE_END -->
 
