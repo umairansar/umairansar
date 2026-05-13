@@ -19,6 +19,6 @@ Interested in distributed systems, databases, and AI/ML.
 ---
 
 <!-- NEETCODE_START -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-ansar/) [![NeetCode](https://img.shields.io/badge/NeetCode-121%20%2F%20150-7B2FBE?style=for-the-badge)](https://github.com/umairansar/neetcode-submissions/tree/main)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-ansar/) [![NeetCode](https://img.shields.io/badge/NeetCode-122%20%2F%20150-7B2FBE?style=for-the-badge)](https://github.com/umairansar/neetcode-submissions/tree/main)
 <!-- NEETCODE_END -->
 
